@@ -1,17 +1,18 @@
-# calculadora_flutter
+# Calculadora Científica en Flutter 
 
-A new Flutter project.
+Una aplicación de calculadora científica desarrollada en Flutter, diseñada con una interfaz de usuario moderna e intuitiva.
 
-## Getting Started
+## 🚀 Características Principales
 
-This project is a starting point for a Flutter application.
+* **Operaciones Básicas:** Suma, resta, multiplicación y división.
+* **Funciones Científicas:** Seno (sin), coseno (cos), tangente (tan), logaritmo natural (ln) y potencias (^).
+* **Cálculo en Tiempo Real:** Evaluación dinámica de las expresiones matemáticas a medida que el usuario ingresa los datos en pantalla.
+* **Interfaz Personalizada:** Diseño atractivo utilizando una paleta de colores personalizada.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologías y Estructura
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Framework:** [Flutter](https://flutter.dev/)
+* **Lenguaje:** Dart
+* **Paquetes Externos:** `math_expressions` (utilizado para el procesamiento y evaluación de las ecuaciones matemáticas).
+* **Arquitectura:** Código modular aplicando buenas prácticas de desarrollo, dividido en clases independientes (`main.dart`, `calculadora_page.dart`, `acerca_de_page.dart`) y utilizando los widgets fundamentales de Flutter (`TextField`, `ElevatedButton`, `SizedBox`).
+* 
