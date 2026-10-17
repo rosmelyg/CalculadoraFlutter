@@ -15,4 +15,3 @@ Una aplicación de calculadora científica desarrollada en Flutter, diseñada co
 * **Lenguaje:** Dart
 * **Paquetes Externos:** `math_expressions` (utilizado para el procesamiento y evaluación de las ecuaciones matemáticas).
 * **Arquitectura:** Código modular aplicando buenas prácticas de desarrollo, dividido en clases independientes (`main.dart`, `calculadora_page.dart`, `acerca_de_page.dart`) y utilizando los widgets fundamentales de Flutter (`TextField`, `ElevatedButton`, `SizedBox`).
-* 
